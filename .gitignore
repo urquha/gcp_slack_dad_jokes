@@ -1,0 +1,7 @@
+.env
+*.sqlite
+*.pyc
+nogit_keys.json
+*.terraform*
+terraform.*
+.csv
